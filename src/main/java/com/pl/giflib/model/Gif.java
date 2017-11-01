@@ -15,6 +15,8 @@ public class Gif {
         this.favorite = favorite;
     }
 
+    /* */
+
     public String getName() {
         return name;
     }
